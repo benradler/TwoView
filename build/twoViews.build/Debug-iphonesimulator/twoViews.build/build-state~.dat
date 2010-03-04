@@ -1,0 +1,354 @@
+TtwoViews
+v7
+r0
+t289386434.648743
+cCheck dependencies
+cProcessInfoPlistFile "/Users/turtle/Programming/iPhone/My Apps/twoViews/build/Debug-iphonesimulator/twoViews.app/Info.plist" twoViews-Info.plist
+cCompileXIB "/Users/turtle/Programming/iPhone/My Apps/twoViews/MainWindow.xib"
+cCompileXIB "/Users/turtle/Programming/iPhone/My Apps/twoViews/twoViewsViewController.xib"
+cCompileXIB "/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/SecondViewController.xib"
+cCompileXIB "/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/ThirdViewController.xib"
+cProcessPCH /var/folders/CS/CS+hUqvdGZSumgMb+uguEU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/twoViews_Prefix-cfivbpjhvocqykcbyqqznvulymep/twoViews_Prefix.pch.gch twoViews_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/twoViews.build/Debug-iphonesimulator/twoViews.build/Objects-normal/i386/main.o "/Users/turtle/Programming/iPhone/My Apps/twoViews/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/twoViews.build/Debug-iphonesimulator/twoViews.build/Objects-normal/i386/twoViewsAppDelegate.o "/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/twoViewsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/twoViews.build/Debug-iphonesimulator/twoViews.build/Objects-normal/i386/twoViewsViewController.o "/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/twoViewsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/twoViews.build/Debug-iphonesimulator/twoViews.build/Objects-normal/i386/SecondViewController.o "/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/SecondViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/twoViews.build/Debug-iphonesimulator/twoViews.build/Objects-normal/i386/ThirdViewController.o "/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/ThirdViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004AD6D18700000000000000EE
+t1255592327
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/SecondViewController.h
+c000000004B8F78150000000000000169
+t1267693589
+s361
+i<UIKit/UIKit.h>
+i"ThirdViewController.h"
+
+N/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/SecondViewController.m
+c000000004B8F783B0000000000000638
+t1267693627
+s1592
+i"SecondViewController.h"
+
+N/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/SecondViewController.xib
+c000000004B8F775B00000000000052EA
+t1267693403
+s21226
+
+N/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/ThirdViewController.h
+c000000004B8F75F500000000000000E4
+t1267693045
+s228
+i<UIKit/UIKit.h>
+
+N/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/ThirdViewController.m
+c000000004B8F75F30000000000000573
+t1267693043
+s1395
+i"ThirdViewController.h"
+
+N/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/ThirdViewController.xib
+c000000004B8F777700000000000049B3
+t1267693431
+s18867
+
+N/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/anyview.xib
+c000000004B8F718600000000000014D9
+t1267691910
+s5337
+
+N/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/twoViewsAppDelegate.h
+c000000004B8F705500000000000001DE
+t1267691605
+s478
+i<UIKit/UIKit.h>
+
+N/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/twoViewsAppDelegate.m
+c000000004B8F70550000000000000268
+t1267691605
+s616
+i"twoViewsAppDelegate.h"
+i"twoViewsViewController.h"
+
+N/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/twoViewsViewController.h
+c000000004B8F77AF0000000000000178
+t1267693487
+s376
+i<UIKit/UIKit.h>
+i"SecondViewController.h"
+
+N/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/twoViewsViewController.m
+c000000004B8F77D00000000000000618
+t1267693520
+s1560
+i"twoViewsViewController.h"
+
+N/Users/turtle/Programming/iPhone/My Apps/twoViews/MainWindow.xib
+c000000004B8F70550000000000002459
+t1267691605
+s9305
+
+N/Users/turtle/Programming/iPhone/My Apps/twoViews/build/Debug-iphonesimulator/twoViews.app
+t2
+s0
+
+N/Users/turtle/Programming/iPhone/My Apps/twoViews/build/Debug-iphonesimulator/twoViews.app.dSYM
+t2
+s0
+
+N/Users/turtle/Programming/iPhone/My Apps/twoViews/build/Debug-iphonesimulator/twoViews.app/Info.plist
+t1267693632
+s568
+
+N/Users/turtle/Programming/iPhone/My Apps/twoViews/build/Debug-iphonesimulator/twoViews.app/MainWindow.nib
+t1267693632
+s1497
+
+N/Users/turtle/Programming/iPhone/My Apps/twoViews/build/Debug-iphonesimulator/twoViews.app/PkgInfo
+t1267693632
+s8
+
+N/Users/turtle/Programming/iPhone/My Apps/twoViews/build/Debug-iphonesimulator/twoViews.app/SecondViewController.nib
+t1267693633
+s3111
+
+N/Users/turtle/Programming/iPhone/My Apps/twoViews/build/Debug-iphonesimulator/twoViews.app/ThirdViewController.nib
+t1267693633
+s2329
+
+N/Users/turtle/Programming/iPhone/My Apps/twoViews/build/Debug-iphonesimulator/twoViews.app/anyview.nib
+t2
+s0
+
+N/Users/turtle/Programming/iPhone/My Apps/twoViews/build/Debug-iphonesimulator/twoViews.app/twoViews
+t2
+s0
+
+N/Users/turtle/Programming/iPhone/My Apps/twoViews/build/Debug-iphonesimulator/twoViews.app/twoViewsViewController.nib
+t1267693632
+s2084
+
+N/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/Objects-normal/i386/SecondViewController.o
+t2
+s0
+
+N/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/Objects-normal/i386/ThirdViewController.o
+t1267693634
+s29944
+
+N/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/Objects-normal/i386/main.o
+t1267693634
+s5980
+
+N/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/Objects-normal/i386/twoViews.LinkFileList
+c000000004B8F784000000000000002E3
+t1267693632
+s739
+
+N/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/Objects-normal/i386/twoViewsAppDelegate.o
+t1267693634
+s38392
+
+N/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/Objects-normal/i386/twoViewsViewController.o
+t1267693634
+s30800
+
+N/Users/turtle/Programming/iPhone/My Apps/twoViews/main.m
+c000000004B8F70550000000000000163
+t1267691605
+s355
+i<UIKit/UIKit.h>
+
+N/Users/turtle/Programming/iPhone/My Apps/twoViews/twoViewsViewController.xib
+c000000004B8F7739000000000000485D
+t1267693369
+s18525
+
+N/Users/turtle/Programming/iPhone/My Apps/twoViews/twoViews_Prefix.pch
+c000000004B8F705500000000000000B9
+t1267691605
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/CS/CS+hUqvdGZSumgMb+uguEU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/twoViews_Prefix-cfivbpjhvocqykcbyqqznvulymep/twoViews_Prefix.pch.gch
+t1267693634
+s13034960
+
+NtwoViews-Info.plist
+c000000004B8F7055000000000000038D
+t1267691605
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies289386432#289386432#0(0"0(0#1#0"4300934600#0"0#
+
+CCompileC build/twoViews.build/Debug-iphonesimulator/twoViews.build/Objects-normal/i386/SecondViewController.o "/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/SecondViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s289386434.519785
+e289386434.577695
+r0
+xCompileC
+xbuild/twoViews.build/Debug-iphonesimulator/twoViews.build/Objects-normal/i386/SecondViewController.o
+x/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/SecondViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/SecondViewController.m: In function '-[SecondViewController goBack]':
+o/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/SecondViewController.m:19: error: 'twoViewsViewController' undeclared (first use in this function)
+o/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/SecondViewController.m:19: error: (Each undeclared identifier is reported only once
+o/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/SecondViewController.m:19: error: for each function it appears in.)
+o{standard input}:54:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:54:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+lSLF07#2@88"Compile /Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/SecondViewController.m289386434#289386434#0(851"/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/SecondViewController.m: In function '-[SecondViewController goBack]':/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/SecondViewController.m:19: error: 'twoViewsViewController' undeclared (first use in this function)/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/SecondViewController.m:19: error: (Each undeclared identifier is reported only once/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/SecondViewController.m:19: error: for each function it appears in.){standard input}:54:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:54:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_01(4@64"'twoViewsViewController' undeclared (first use in this function)289386434#128#157#0(6@80"/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/SecondViewController.m289386427#19#0#19#0#43"'*' undeclared (first use in this function)0(0#0#80"/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/SecondViewController.m4300934600#2124"    cd "/Users/turtle/Programming/iPhone/My Apps/twoViews"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/twoViews-generated-files.hmap" "-I/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/twoViews-own-target-headers.hmap" "-I/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/twoViews-all-target-headers.hmap" -iquote "/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/twoViews-project-headers.hmap" "-F/Users/turtle/Programming/iPhone/My Apps/twoViews/build/Debug-iphonesimulator" "-I/Users/turtle/Programming/iPhone/My Apps/twoViews/build/Debug-iphonesimulator/include" "-I/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/DerivedSources/i386" "-I/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/DerivedSources" -include /var/folders/CS/CS+hUqvdGZSumgMb+uguEU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/twoViews_Prefix-cfivbpjhvocqykcbyqqznvulymep/twoViews_Prefix.pch -c "/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/SecondViewController.m" -o "/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/Objects-normal/i386/SecondViewController.o"1#
+
+CCompileC build/twoViews.build/Debug-iphonesimulator/twoViews.build/Objects-normal/i386/ThirdViewController.o "/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/ThirdViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s289386434.577769
+e289386434.648668
+r1
+xCompileC
+xbuild/twoViews.build/Debug-iphonesimulator/twoViews.build/Objects-normal/i386/ThirdViewController.o
+x/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/ThirdViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/ThirdViewController.m289386434#289386434#0(0"0(0#0#79"/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/ThirdViewController.m4300934600#2122"    cd "/Users/turtle/Programming/iPhone/My Apps/twoViews"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/twoViews-generated-files.hmap" "-I/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/twoViews-own-target-headers.hmap" "-I/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/twoViews-all-target-headers.hmap" -iquote "/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/twoViews-project-headers.hmap" "-F/Users/turtle/Programming/iPhone/My Apps/twoViews/build/Debug-iphonesimulator" "-I/Users/turtle/Programming/iPhone/My Apps/twoViews/build/Debug-iphonesimulator/include" "-I/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/DerivedSources/i386" "-I/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/DerivedSources" -include /var/folders/CS/CS+hUqvdGZSumgMb+uguEU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/twoViews_Prefix-cfivbpjhvocqykcbyqqznvulymep/twoViews_Prefix.pch -c "/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/ThirdViewController.m" -o "/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/Objects-normal/i386/ThirdViewController.o"0#
+
+CCompileC build/twoViews.build/Debug-iphonesimulator/twoViews.build/Objects-normal/i386/main.o "/Users/turtle/Programming/iPhone/My Apps/twoViews/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s289386434.422495
+e289386434.501901
+r1
+xCompileC
+xbuild/twoViews.build/Debug-iphonesimulator/twoViews.build/Objects-normal/i386/main.o
+x/Users/turtle/Programming/iPhone/My Apps/twoViews/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/turtle/Programming/iPhone/My Apps/twoViews/main.m289386434#289386434#0(0"0(0#0#56"/Users/turtle/Programming/iPhone/My Apps/twoViews/main.m4300934600#2084"    cd "/Users/turtle/Programming/iPhone/My Apps/twoViews"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/twoViews-generated-files.hmap" "-I/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/twoViews-own-target-headers.hmap" "-I/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/twoViews-all-target-headers.hmap" -iquote "/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/twoViews-project-headers.hmap" "-F/Users/turtle/Programming/iPhone/My Apps/twoViews/build/Debug-iphonesimulator" "-I/Users/turtle/Programming/iPhone/My Apps/twoViews/build/Debug-iphonesimulator/include" "-I/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/DerivedSources/i386" "-I/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/DerivedSources" -include /var/folders/CS/CS+hUqvdGZSumgMb+uguEU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/twoViews_Prefix-cfivbpjhvocqykcbyqqznvulymep/twoViews_Prefix.pch -c "/Users/turtle/Programming/iPhone/My Apps/twoViews/main.m" -o "/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/twoViews.build/Debug-iphonesimulator/twoViews.build/Objects-normal/i386/twoViewsAppDelegate.o "/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/twoViewsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s289386434.424042
+e289386434.519696
+r1
+xCompileC
+xbuild/twoViews.build/Debug-iphonesimulator/twoViews.build/Objects-normal/i386/twoViewsAppDelegate.o
+x/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/twoViewsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/twoViewsAppDelegate.m289386434#289386434#0(0"0(0#0#79"/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/twoViewsAppDelegate.m4300934600#2122"    cd "/Users/turtle/Programming/iPhone/My Apps/twoViews"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/twoViews-generated-files.hmap" "-I/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/twoViews-own-target-headers.hmap" "-I/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/twoViews-all-target-headers.hmap" -iquote "/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/twoViews-project-headers.hmap" "-F/Users/turtle/Programming/iPhone/My Apps/twoViews/build/Debug-iphonesimulator" "-I/Users/turtle/Programming/iPhone/My Apps/twoViews/build/Debug-iphonesimulator/include" "-I/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/DerivedSources/i386" "-I/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/DerivedSources" -include /var/folders/CS/CS+hUqvdGZSumgMb+uguEU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/twoViews_Prefix-cfivbpjhvocqykcbyqqznvulymep/twoViews_Prefix.pch -c "/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/twoViewsAppDelegate.m" -o "/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/Objects-normal/i386/twoViewsAppDelegate.o"0#
+
+CCompileC build/twoViews.build/Debug-iphonesimulator/twoViews.build/Objects-normal/i386/twoViewsViewController.o "/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/twoViewsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s289386434.502035
+e289386434.617748
+r1
+xCompileC
+xbuild/twoViews.build/Debug-iphonesimulator/twoViews.build/Objects-normal/i386/twoViewsViewController.o
+x/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/twoViewsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/twoViewsViewController.m:67: warning: incomplete implementation of class 'twoViewsViewController'
+o/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/twoViewsViewController.m:67: warning: method definition for '-goToThirdView' not found
+lSLF07#2@90"Compile /Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/twoViewsViewController.m289386434#289386434#0(301"/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/twoViewsViewController.m:67: warning: incomplete implementation of class 'twoViewsViewController'/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/twoViewsViewController.m:67: warning: method definition for '-goToThirdView' not found2(22@59"Incomplete implementation of class 'twoViewsViewController'289386434#0#156#0(6@82"/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/twoViewsViewController.m289386320#67#0#67#0#38"incomplete implementation of class '*'0(22@48"Method definition for '-goToThirdView' not found289386434#156#145#0(6@82"/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/twoViewsViewController.m289386320#67#0#67#0#35"method definition for '*' not found0(0#0#82"/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/twoViewsViewController.m4300934600#2128"    cd "/Users/turtle/Programming/iPhone/My Apps/twoViews"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/twoViews-generated-files.hmap" "-I/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/twoViews-own-target-headers.hmap" "-I/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/twoViews-all-target-headers.hmap" -iquote "/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/twoViews-project-headers.hmap" "-F/Users/turtle/Programming/iPhone/My Apps/twoViews/build/Debug-iphonesimulator" "-I/Users/turtle/Programming/iPhone/My Apps/twoViews/build/Debug-iphonesimulator/include" "-I/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/DerivedSources/i386" "-I/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/DerivedSources" -include /var/folders/CS/CS+hUqvdGZSumgMb+uguEU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/twoViews_Prefix-cfivbpjhvocqykcbyqqznvulymep/twoViews_Prefix.pch -c "/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/twoViewsViewController.m" -o "/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/Objects-normal/i386/twoViewsViewController.o"0#
+
+CCompileXIB "/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/SecondViewController.xib"
+s289386432.877664
+e289386433.358185
+r1
+xCompileXIB
+x/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/SecondViewController.xib
+lSLF07#2@43"CompileXIB Classes/SecondViewController.xib289386432#289386433#0(0"0(0#0#82"/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/SecondViewController.xib4300934600#612"    cd "/Users/turtle/Programming/iPhone/My Apps/twoViews"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/turtle/Programming/iPhone/My Apps/twoViews/build/Debug-iphonesimulator/twoViews.app/SecondViewController.nib" "/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/SecondViewController.xib"0#
+
+CCompileXIB "/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/ThirdViewController.xib"
+s289386432.981056
+e289386433.420910
+r1
+xCompileXIB
+x/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/ThirdViewController.xib
+lSLF07#2@42"CompileXIB Classes/ThirdViewController.xib289386432#289386433#0(0"0(0#0#81"/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/ThirdViewController.xib4300934600#610"    cd "/Users/turtle/Programming/iPhone/My Apps/twoViews"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/turtle/Programming/iPhone/My Apps/twoViews/build/Debug-iphonesimulator/twoViews.app/ThirdViewController.nib" "/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/ThirdViewController.xib"0#
+
+CCompileXIB "/Users/turtle/Programming/iPhone/My Apps/twoViews/Classes/anyview.xib"
+r0
+
+CCompileXIB "/Users/turtle/Programming/iPhone/My Apps/twoViews/MainWindow.xib"
+s289386432.472598
+e289386432.877559
+r1
+xCompileXIB
+x/Users/turtle/Programming/iPhone/My Apps/twoViews/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib289386432#289386432#0(0"0(0#0#64"/Users/turtle/Programming/iPhone/My Apps/twoViews/MainWindow.xib4300934600#584"    cd "/Users/turtle/Programming/iPhone/My Apps/twoViews"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/turtle/Programming/iPhone/My Apps/twoViews/build/Debug-iphonesimulator/twoViews.app/MainWindow.nib" "/Users/turtle/Programming/iPhone/My Apps/twoViews/MainWindow.xib"0#
+
+CCompileXIB "/Users/turtle/Programming/iPhone/My Apps/twoViews/twoViewsViewController.xib"
+s289386432.473624
+e289386432.980981
+r1
+xCompileXIB
+x/Users/turtle/Programming/iPhone/My Apps/twoViews/twoViewsViewController.xib
+lSLF07#2@37"CompileXIB twoViewsViewController.xib289386432#289386432#0(0"0(0#0#76"/Users/turtle/Programming/iPhone/My Apps/twoViews/twoViewsViewController.xib4300934600#608"    cd "/Users/turtle/Programming/iPhone/My Apps/twoViews"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/turtle/Programming/iPhone/My Apps/twoViews/build/Debug-iphonesimulator/twoViews.app/twoViewsViewController.nib" "/Users/turtle/Programming/iPhone/My Apps/twoViews/twoViewsViewController.xib"0#
+
+CGenerateDSYMFile "/Users/turtle/Programming/iPhone/My Apps/twoViews/build/Debug-iphonesimulator/twoViews.app.dSYM" "/Users/turtle/Programming/iPhone/My Apps/twoViews/build/Debug-iphonesimulator/twoViews.app/twoViews"
+r0
+
+CLd "/Users/turtle/Programming/iPhone/My Apps/twoViews/build/Debug-iphonesimulator/twoViews.app/twoViews" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/turtle/Programming/iPhone/My Apps/twoViews/build/Debug-iphonesimulator/twoViews.app/Info.plist" twoViews-Info.plist
+s289386432.424300
+e289386432.472516
+r1
+xProcessInfoPlistFile
+x/Users/turtle/Programming/iPhone/My Apps/twoViews/build/Debug-iphonesimulator/twoViews.app/Info.plist
+xtwoViews-Info.plist
+lSLF07#2@27"Process twoViews-Info.plist289386432#289386432#0(0"0(0#0#69"/Users/turtle/Programming/iPhone/My Apps/twoViews/twoViews-Info.plist4300934600#583"    cd "/Users/turtle/Programming/iPhone/My Apps/twoViews"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility twoViews-Info.plist -genpkginfo "/Users/turtle/Programming/iPhone/My Apps/twoViews/build/Debug-iphonesimulator/twoViews.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/turtle/Programming/iPhone/My Apps/twoViews/build/Debug-iphonesimulator/twoViews.app/Info.plist"0#
+
+CProcessPCH /var/folders/CS/CS+hUqvdGZSumgMb+uguEU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/twoViews_Prefix-cfivbpjhvocqykcbyqqznvulymep/twoViews_Prefix.pch.gch twoViews_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s289386433.421032
+e289386434.422149
+r1
+xProcessPCH
+x/var/folders/CS/CS+hUqvdGZSumgMb+uguEU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/twoViews_Prefix-cfivbpjhvocqykcbyqqznvulymep/twoViews_Prefix.pch.gch
+xtwoViews_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile twoViews_Prefix.pch289386433#289386434#0(0"0(0#0#69"/Users/turtle/Programming/iPhone/My Apps/twoViews/twoViews_Prefix.pch4300934600#1962"    cd "/Users/turtle/Programming/iPhone/My Apps/twoViews"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/twoViews-generated-files.hmap" "-I/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/twoViews-own-target-headers.hmap" "-I/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/twoViews-all-target-headers.hmap" -iquote "/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/twoViews-project-headers.hmap" "-F/Users/turtle/Programming/iPhone/My Apps/twoViews/build/Debug-iphonesimulator" "-I/Users/turtle/Programming/iPhone/My Apps/twoViews/build/Debug-iphonesimulator/include" "-I/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/DerivedSources/i386" "-I/Users/turtle/Programming/iPhone/My Apps/twoViews/build/twoViews.build/Debug-iphonesimulator/twoViews.build/DerivedSources" -c "/Users/turtle/Programming/iPhone/My Apps/twoViews/twoViews_Prefix.pch" -o /var/folders/CS/CS+hUqvdGZSumgMb+uguEU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/twoViews_Prefix-cfivbpjhvocqykcbyqqznvulymep/twoViews_Prefix.pch.gch0#
+
+CTouch "/Users/turtle/Programming/iPhone/My Apps/twoViews/build/Debug-iphonesimulator/twoViews.app"
+r0
+
